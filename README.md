@@ -42,4 +42,4 @@ date,icu_occupancy
 ```
 
 ## Author
-Created by Vipul Singh Parmar #
+Created by Vipul Singh Parmar
